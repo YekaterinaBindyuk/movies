@@ -1,6 +1,6 @@
 import React from "react";
-import SearchFilter from './SearchFilter';
 import { SEARCH_BUTTON } from '../../environment/const';
+import SearchFilter from './SearchFilter';
 
 class Search extends React.Component {
   render = () => {
